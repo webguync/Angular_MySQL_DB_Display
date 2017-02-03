@@ -2,7 +2,7 @@
 <html>
 <head>
 <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
-<link rel="stylesheet" href="css/POTUS.css">
+<link rel="stylesheet" href="POTUS.css">
 </head>
 <body>
 
@@ -24,7 +24,7 @@
 
 </div><!--end Inner Container-->
 </div><!--end Outer Container-->
-<script type="text/javascript" src="js/App.js">
+<script type="text/javascript" src="App.js">
 </script>
 
 </body>
