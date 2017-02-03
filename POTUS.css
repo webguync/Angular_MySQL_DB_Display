@@ -1,0 +1,18 @@
+.OuterContainer{width:800px;text-align:center;margin: 0 auto}
+.InnerContainer{width:100%}
+
+caption{font-family:aria, helvetica, sans-serif; font-size:24px; font-weight:bold;color:#175777;text-shadow:1px 1px 1px rgba(0,0,0,1);margin-bottom:20px}
+
+table, th , td {
+border: 1px solid black;
+border-collapse: collapse;
+padding: 5px;
+font-family:arial, helvetica, sans-serif;
+color:#222;
+}
+table tr:nth-child(odd) {
+background-color: #e7f4fa;
+}
+table tr:nth-child(even) {
+background-color: #ffffff;
+}
